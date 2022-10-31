@@ -22,4 +22,4 @@ You can find urls scanned in stdout of t4scan.
 ![images](images/stdout.png)
 When it found a text4shell, it  will alert an issue.
 ![images](images/issue.png)
-For more details, please to and look at source code.
+For more details, please go and look at source code.
